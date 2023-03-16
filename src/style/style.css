@@ -213,8 +213,8 @@ body {
     #content {
         width: 100%;
         height: 100%;
-        margin: 1rem;
     }
+
     #content .background {
         display: none;
     }
@@ -224,6 +224,11 @@ body {
         height: 100%;
         padding: 0;
         align-items: center;
+    }
+
+    #content .login .main {
+        width: 100%;
+        padding: 2rem;
     }
 
     #content .login img.logo {
