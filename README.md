@@ -1,4 +1,3 @@
-Sure, here's the README.md for the vertigo-login project in the format you requested:
 
 <h1 align="center"> VERTIGO LOGIN </h1>
 <p align="center">
