@@ -22,8 +22,6 @@ Sure, here's the README.md for the vertigo-login project in the format you reque
 </p>
 
 ## 🚀 Technologies
----
-
 
 This project was developed with the following technologies:
 
@@ -33,17 +31,15 @@ This project was developed with the following technologies:
 
 
 ## 💻 Project
----
+
  This project is a simple web page that demonstrates how to implement a login feature using HTML, CSS, and JavaScript. The project includes a login form where users can enter their username and password to log in. The project also includes validation to ensure that the user has entered a valid username and password.
 
-
 ## 🔖 Layout
----
+
 To test the project you can access through  [THIS LINK](https://charles-mrt.github.io/vertigo-login/)
 
-
 ## memo: Licença
----
+
 
 This project is under the MIT license.
 ---
